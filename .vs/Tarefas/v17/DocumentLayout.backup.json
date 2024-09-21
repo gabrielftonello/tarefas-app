@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499A2662-53CB-46DB-9A7C-19E8BFBA38D8}|Infraestrutura\\Infraestrutura.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\infraestrutura\\dados\\services\\grupotarefasservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499A2662-53CB-46DB-9A7C-19E8BFBA38D8}|Infraestrutura\\Infraestrutura.csproj|solutionrelative:infraestrutura\\dados\\services\\grupotarefasservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499A2662-53CB-46DB-9A7C-19E8BFBA38D8}|Infraestrutura\\Infraestrutura.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\infraestrutura\\dados\\services\\tarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499A2662-53CB-46DB-9A7C-19E8BFBA38D8}|Infraestrutura\\Infraestrutura.csproj|solutionrelative:infraestrutura\\dados\\services\\tarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\grupotarefasdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\grupotarefasdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\logindtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\logindtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\registrodtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\registrodtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\tarefadtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\tarefadtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\tarefadtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\tarefadtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\usuariodtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\usuariodtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\entidades\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|c:\\users\\gabriel.tonello\\downloads\\tarefas-1\\tarefas\\dominio\\dtos\\grupotarefadtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354811B4-9719-43BF-83DB-D2A832D6F9FE}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\grupotarefadtoretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 541,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrupoTarefasServico.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Infraestrutura\\Dados\\Services\\GrupoTarefasServico.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\Dados\\Services\\GrupoTarefasServico.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Infraestrutura\\Dados\\Services\\GrupoTarefasServico.cs",
+              "RelativeToolTip": "Infraestrutura\\Dados\\Services\\GrupoTarefasServico.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwJAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:44:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Entidades\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Entidades\\Tarefa.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:41:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaServico.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Infraestrutura\\Dados\\Services\\TarefaServico.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\Dados\\Services\\TarefaServico.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Infraestrutura\\Dados\\Services\\TarefaServico.cs",
+              "RelativeToolTip": "Infraestrutura\\Dados\\Services\\TarefaServico.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:41:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDtoRetorno.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\UsuarioDtoRetorno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\UsuarioDtoRetorno.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\UsuarioDtoRetorno.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\UsuarioDtoRetorno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:41:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaDtoRetorno.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\TarefaDtoRetorno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\TarefaDtoRetorno.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\TarefaDtoRetorno.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\TarefaDtoRetorno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:41:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefaDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\TarefaDtoPost.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\TarefaDtoPost.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\TarefaDtoPost.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\TarefaDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:40:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\RegistroDtoPost.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\RegistroDtoPost.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\RegistroDtoPost.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\RegistroDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:40:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\LoginDtoPost.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\LoginDtoPost.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\LoginDtoPost.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\LoginDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:40:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrupoTarefaDtoRetorno.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\GrupoTarefaDtoRetorno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\GrupoTarefaDtoRetorno.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\GrupoTarefaDtoRetorno.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\GrupoTarefaDtoRetorno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:40:23.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrupoTarefasDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\GrupoTarefasDtoPost.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\GrupoTarefasDtoPost.cs",
+              "ToolTip": "C:\\Users\\gabriel.tonello\\Downloads\\Tarefas-1\\Tarefas\\Dominio\\Dtos\\GrupoTarefasDtoPost.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\GrupoTarefasDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:37:06.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
