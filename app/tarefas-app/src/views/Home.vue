@@ -233,7 +233,7 @@ export default {
       dataHoraFormatada: '',
       novaTarefaDataHoraFormatada: '',
       regras: {
-        obrigatorio: (valor) => !!valor.trim() || 'Obrigatório*',
+        obrigatorio: (valor) => (valor && valor.trim ? !!valor.trim() : false) || 'Obrigatório*',
         dataHora: (valor) =>
             this.validarDataHora(valor) || 'Data inválida ou no passado (dd/mm/aaaa hh:mm)',
       },

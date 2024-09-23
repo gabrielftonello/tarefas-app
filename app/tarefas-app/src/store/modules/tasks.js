@@ -23,7 +23,7 @@ const actions = {
     async addGrupoTarefas({ commit }, grupoTarefasData) {
         try {
             const response = await api.post('GrupoTarefas', {
-                Nome: groupData.nome,
+                Nome: grupoTarefasData.nome,
             });
             commit('addGrupoTarefas', response.data);
         } catch (error) {
@@ -34,7 +34,6 @@ const actions = {
 
     async addTarefa({ commit }, tarefaData) {
         try {
-
             console.log(tarefaData);
             const response = await api.post('Tarefa', {
                 Nome: tarefaData.nome,
@@ -53,7 +52,6 @@ const actions = {
     async atualizarTarefa({ commit }, tarefaData) {
         try {
             console.log(tarefaData);
-            
             const response = await api.put(`Tarefa/${tarefaData.id}`, {
                 Id: tarefaData.id,
                 Nome: tarefaData.nome,
@@ -63,14 +61,12 @@ const actions = {
                 Status: tarefaData.status,
                 Conclusao: tarefaData.conclusao,
             });
-            
             commit('atualizarTarefa', response.data);
         } catch (error) {
             console.error(error);
             throw error;
         }
     },
-
 };
 
 const mutations = {
@@ -80,6 +76,17 @@ const mutations = {
 
     addGrupoTarefas(state, grupoTarefa) {
         state.gruposTarefas.push(grupoTarefa);
+    },
+
+    addTarefa(state, tarefa) {
+        state.tarefas.push(tarefa);
+    },
+
+    atualizarTarefa(state, tarefaAtualizada) {
+        const index = state.tarefas.findIndex(tarefa => tarefa.id === tarefaAtualizada.id);
+        if (index !== -1) {
+            state.tarefas.splice(index, 1, tarefaAtualizada); 
+        }
     },
 };
 

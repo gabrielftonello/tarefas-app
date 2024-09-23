@@ -58,3 +58,4 @@ C:/Users/gabriel.tonello/Downloads/Tarefas-1/Tarefas/Infraestrutura/obj/Debug/ne
 /Users/gabriel/Downloads/tarefas-app/Infraestrutura/obj/Debug/net8.0/refint/Infraestrutura.dll
 /Users/gabriel/Downloads/tarefas-app/Infraestrutura/obj/Debug/net8.0/Infraestrutura.pdb
 /Users/gabriel/Downloads/tarefas-app/Infraestrutura/obj/Debug/net8.0/ref/Infraestrutura.dll
+/Users/gabriel/Downloads/tarefas-app/Infraestrutura/obj/Debug/net8.0/Infraestrutura.sourcelink.json

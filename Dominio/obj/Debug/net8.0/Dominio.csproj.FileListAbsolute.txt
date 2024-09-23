@@ -46,3 +46,4 @@ C:/Users/gabriel.tonello/Downloads/Tarefas-1/Tarefas/Dominio/obj/Debug/net8.0/re
 /Users/gabriel/Downloads/tarefas-app/Dominio/obj/Debug/net8.0/refint/Dominio.dll
 /Users/gabriel/Downloads/tarefas-app/Dominio/obj/Debug/net8.0/Dominio.pdb
 /Users/gabriel/Downloads/tarefas-app/Dominio/obj/Debug/net8.0/ref/Dominio.dll
+/Users/gabriel/Downloads/tarefas-app/Dominio/obj/Debug/net8.0/Dominio.sourcelink.json

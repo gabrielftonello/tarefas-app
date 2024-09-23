@@ -142,7 +142,11 @@ namespace Infraestrutura.Dados.Services
             tarefaExistente.Descricao = updatedTarefaDto.Descricao;
             tarefaExistente.Status = updatedTarefaDto.Status;
             tarefaExistente.DataVencimento = updatedTarefaDto.DataVencimento;
-            tarefaExistente.Conclusao = ((DateTime)updatedTarefaDto.Conclusao).AddHours(-3);
+            tarefaExistente.Conclusao = null;
+            
+            if(updatedTarefaDto.Conclusao != null)
+                tarefaExistente.Conclusao = ((DateTime)updatedTarefaDto.Conclusao).AddHours(-3);
+            
             tarefaExistente.Modificacao = DateTime.Now;
             tarefaExistente.GrupoTarefasId = updatedTarefaDto.GrupoTarefasId;
 
